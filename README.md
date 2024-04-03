@@ -1,2 +1,2 @@
 # GitHubUserPage
-this is an introduction of who I am as a programmer, as a person, and any other interesting things 
+Something about my favorate programming language, python, is that it is space senstive.
