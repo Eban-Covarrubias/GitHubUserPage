@@ -15,7 +15,7 @@ As a programmer, I specialize in data structures and algorithms. I've worked on 
 ## Fun Facts
 - I love rocking climbing.
 - My favorite programming language is C++.
-- I'm currently more about web development.
+- I'm currently learning more about web development.
 
 ## Connect With Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-profile)
