@@ -32,6 +32,11 @@ def greet(name):
     print(f"Hello, {name}!")
 greet("Eban")
 ```
+## Here's a ranking of my top languages:
+1. Python
+2. C++
+3. Java
+
 <!-- 
 ## Projects
 - [Project 1](link_to_project1): Description of project.
@@ -39,10 +44,10 @@ greet("Eban")
 
 ## Recommended Reading
 - [Book Title](link_to_book): Brief description.
-
-## Additional Resources
-- [Resource Title](link_to_resource): Description.
 -->
+## Checkout my README.md
+    [here](README.md)
+
 ## Contact Me
 Feel free to contact me at [ewancov@gmail.com](mailto:ewancov@gmail.com) for any inquiries or collaborations.
 
