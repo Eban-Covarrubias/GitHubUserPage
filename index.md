@@ -45,8 +45,13 @@ greet("Eban")
 ## Recommended Reading
 - [Book Title](link_to_book): Brief description.
 -->
-## Checkout my README.md
-    [here](README.md)
+[Checkout my README](README.md)
+
+## Goals For this quarter:
+- [ ] Update personal website
+- [x] Finish my first CSE 110 lab
+- [ ] Find a summer job in tech
+
 
 ## Contact Me
 Feel free to contact me at [ewancov@gmail.com](mailto:ewancov@gmail.com) for any inquiries or collaborations.
