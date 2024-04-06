@@ -2,12 +2,12 @@
 
 ## Introduction
 ### Hello, I'm Eban! I'm a passionate programmer with a love for machine learning and data analysis. I believe in the power of technology to solve real-world problems and improve lives. 
-
+[Jump to Contact me](#contact-me)
 ![This is me](https://i.imgur.com/bnNLVE9.jpeg)
 
 
 ## Who I Am
-** Outside of coding, I'm passionate about learning new skills and working on team projects. I enjoy outdoors activities and planning social events. **
+**Outside of coding, I'm passionate about learning new skills and working on team projects. I enjoy outdoors activities and planning social events.**
 
 ## What I Do
 As a programmer, I specialize in data structures and algorithms. I've worked on various projects including creating hardware for encrypting data and creating machine learning models to recognize cats. My expertise lies in designing optimal approaches to problem solving.
